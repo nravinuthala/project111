@@ -1,2 +1,4 @@
 def config_ios_xe():
-    pass
+    print("Connecting to IOS XE device")
+    # some code comes here
+    print("Connected")
